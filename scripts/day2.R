@@ -1,5 +1,6 @@
 ## R course day 2
 ## 29 sept 2015
+## that was awesome
 
 
 ## code/insert section - organizar os scripts em sessões
